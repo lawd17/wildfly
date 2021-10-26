@@ -3,6 +3,7 @@ Repositorio que se va a usar para realizar tareas de como trabajar e usar la her
 
 # Indice
 ## 1 [Tarea 01 - Instalación y configuración de WildFly](Instalacion-wildfly-linux/Instalacion-wildfly-linux.md)
+## 1 [Tarea 02 - Instalación Servicios REST/WD en WildFly](Instalacion_servicios_REST_WS_wildfly/Instalacion_servicios_REST_WS_Wildfly.md)
 
 
 
